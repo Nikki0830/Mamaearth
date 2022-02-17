@@ -3,6 +3,8 @@ This is a clone of www.mamaearth.in website made using HTML, CSS and JavaScript 
 
 #Webpages
 
+<p>-------------to run the project click on index.htmk---------------</p>
+
 1.Homepage
 
 ![homePage](https://user-images.githubusercontent.com/84259086/146634432-0cbe08e1-00f3-4ca8-ae03-24f7b62cc414.PNG)
